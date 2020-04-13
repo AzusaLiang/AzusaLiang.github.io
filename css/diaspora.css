@@ -31,7 +31,7 @@ audio {display:none;visibility:hidden;opacity:0;width:0;height:0;}
 body.mu .image-logo {background-color:;}
 #vibrant {position:absolute;top:0;left:0;width:100%;height:100%;}
 #vibrant div {position:absolute;top:0;left:0;width:100%;height:100%;opacity:0;background-color:#000;}
-#post0 {width:28%;position:absolute;top:42%;left:10%;}
+#post0 {width:28%;position:absolute;top:43%;left:10%;}
 #post0 p:first-child {color:#fff;font-size:12px;}
 #post0 h2 {font-size:28px;margin-top:15px;}
 #post0 h2 a {color:#fff;}
@@ -94,6 +94,16 @@ body.mu .icon-logo {color:#333;}
 .nav .footerlinks {font-size: 45px; margin: 20px 1px 30px;padding: 10px 1px 10px;}
 .nav .footerlinks a {font-size: 35px; text-decoration:none;}
 .nav .footerlinks a:hover { color: #737373;}/* 鼠标移动到链接上 */
+
+
+
+
+
+.music {width:28%;position:absolute;bottom: 0%;}
+
+
+
+
 
 .set {display:block;max-width:768px;margin:0 auto 30px;line-height:2;padding-left:30px}
 .set h3 {font-size:22px;font-weight:500;margin:15px 0 20px}
@@ -320,3 +330,6 @@ pre .keyword,pre .javascript .function {color:#cc99cc;}
   .article .side {display:none}
   .comment .gt-btn-public .gt-btn-text:after{content:"";}
 }
+
+
+
