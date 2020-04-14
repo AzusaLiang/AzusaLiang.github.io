@@ -99,7 +99,7 @@ body.mu .icon-logo {color:#333;}
 
 
 
-.music {width:28%;position:absolute;bottom: 0%;right: -5%}
+.music {z-index: 5; width:28%;position:fixed;bottom: 0%;right: -5%}
 
 
 
